@@ -12,6 +12,7 @@
 
 using namespace std;
 
+// есть косяки с потоками
 enum Color
 {
 	Black, Blue, Green, Cyan, Red, Magenta, Brown,
